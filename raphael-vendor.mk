@@ -490,6 +490,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/raphael/proprietary/vendor/lib/vendor.qti.hardware.vpp@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.vpp@1.1.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib/vendor.qti.hardware.vpp@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.vpp@1.2.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib/vendor.qti.hardware.vpp@1.3.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.vpp@1.3.so \
+    vendor/xiaomi/raphael/proprietary/vendor/lib/vndk/libxlog.so:$(TARGET_COPY_OUT_VENDOR)/lib/vndk/libxlog.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/camera/com.qti.sensor.imx586_raphael.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx586_raphael.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/camera/com.qti.sensor.ov8856_raphael.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.ov8856_raphael.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/camera/com.qti.sensor.s5k3l6_raphael.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.s5k3l6_raphael.so \
@@ -746,6 +747,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/libllvm-glnext.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libllvm-glnext.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/libllvm-qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libllvm-qcom.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/libloc_api_v02.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libloc_api_v02.so \
+    vendor/xiaomi/raphael/proprietary/vendor/lib64/libloc_api_wds.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libloc_api_wds.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/libloc_socket.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libloc_socket.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/liblocationservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblocationservice.so \
     vendor/xiaomi/raphael/proprietary/vendor/lib64/liblocationservice_glue.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblocationservice_glue.so \
